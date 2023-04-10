@@ -7,7 +7,7 @@ import sap from "../../../public/images/sap.svg";
 import A from "../../../public/images/a.svg";
 import B from "../../../public/images/b.svg";
 import C from "../../../public/images/c.svg";
-import D from "../../../public/images/D.svg";
+import D from "../../../public/images/d.svg";
 const Rightbar = () => {
   return (
     <div>
